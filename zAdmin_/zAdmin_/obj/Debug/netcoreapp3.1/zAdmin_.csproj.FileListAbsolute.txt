@@ -1,0 +1,13 @@
+C:\Users\ziadm\source\repos\zAdmin_\zAdmin_\bin\Debug\netcoreapp3.1\zAdmin_.exe
+C:\Users\ziadm\source\repos\zAdmin_\zAdmin_\bin\Debug\netcoreapp3.1\zAdmin_.deps.json
+C:\Users\ziadm\source\repos\zAdmin_\zAdmin_\bin\Debug\netcoreapp3.1\zAdmin_.runtimeconfig.json
+C:\Users\ziadm\source\repos\zAdmin_\zAdmin_\bin\Debug\netcoreapp3.1\zAdmin_.runtimeconfig.dev.json
+C:\Users\ziadm\source\repos\zAdmin_\zAdmin_\bin\Debug\netcoreapp3.1\zAdmin_.dll
+C:\Users\ziadm\source\repos\zAdmin_\zAdmin_\bin\Debug\netcoreapp3.1\zAdmin_.pdb
+C:\Users\ziadm\source\repos\zAdmin_\zAdmin_\obj\Debug\netcoreapp3.1\zAdmin_.csproj.AssemblyReference.cache
+C:\Users\ziadm\source\repos\zAdmin_\zAdmin_\obj\Debug\netcoreapp3.1\zAdmin_.AssemblyInfoInputs.cache
+C:\Users\ziadm\source\repos\zAdmin_\zAdmin_\obj\Debug\netcoreapp3.1\zAdmin_.AssemblyInfo.cs
+C:\Users\ziadm\source\repos\zAdmin_\zAdmin_\obj\Debug\netcoreapp3.1\zAdmin_.csproj.CoreCompileInputs.cache
+C:\Users\ziadm\source\repos\zAdmin_\zAdmin_\obj\Debug\netcoreapp3.1\zAdmin_.dll
+C:\Users\ziadm\source\repos\zAdmin_\zAdmin_\obj\Debug\netcoreapp3.1\zAdmin_.pdb
+C:\Users\ziadm\source\repos\zAdmin_\zAdmin_\obj\Debug\netcoreapp3.1\zAdmin_.genruntimeconfig.cache
