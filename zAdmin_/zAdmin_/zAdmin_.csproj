@@ -3,6 +3,8 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <ApplicationIcon>kép_2021-09-26_212532-removebg-preview.ico</ApplicationIcon>
+    <SignAssembly>false</SignAssembly>
   </PropertyGroup>
 
 </Project>
